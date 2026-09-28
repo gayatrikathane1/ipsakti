@@ -1,0 +1,151 @@
+{
+  "app": {
+    "name": "ATREYA",
+    "tagline": "Ayurveda, Hnam Inhriatna & Intellectual Property Puitu AI Thiam tak",
+    "headerSub": "Pawnlang AI • Ayurveda • Hnam Hriatna • IP",
+    "sihBadge": "SIH 2026 • PS 26045",
+    "disclaimer": "ATREYA hian hriattirna leh zirchiana puihna a pe a. Sawrkar thuneitu thurawn a aiawh lo."
+  },
+  "nav": {
+    "home": "In (Home)",
+    "chat": "AI Chat",
+    "tk": "Hnam Hriatna",
+    "vault": "IP Bawm",
+    "research": "Zirchianna",
+    "authorities": "Thuneitu Zawnna",
+    "directory": "Sawrkar Portal",
+    "solver": "Harsatna Sutna",
+    "trp": "TRP Lehkha",
+    "prp": "PRP Lehkha",
+    "simpleMode": "Mode Awlsam"
+  },
+  "hero": {
+    "badge": "SIH 2026 Harsatna 26045",
+    "title": "ATREYA",
+    "tagline": "Ayurveda, Hnam Inhriatna & Intellectual Property Puitu AI Thiam tak",
+    "subtitle": "Section 3(p), TKDL leh Indian Patents Act 1970 chungchangah hruaina dik pe thin."
+  },
+  "dashboard": {
+    "title": "KHAWIH GE TANPUINA I MAMOZH?",
+    "subtitle": "Hriattirna dik leh Sawrkar portal hmuh nan card i thlang thei e.",
+    "tkCard": "Hnam Hriatna",
+    "ideaCard": "Ka Ngaihtuahna",
+    "researchCard": "Zirchianna",
+    "docCard": "File Scan OCR",
+    "ruleCard": "IP Dan",
+    "authorityCard": "Thuneitu Zawnna",
+    "sourceCard": "Sawrkar Portal",
+    "speakCard": "Ka Ṭawngin Ṭawng Rawh",
+    "vaultCard": "Ka IP Bawm"
+  },
+  "buttons": {
+    "askQuestion": "Zawt Rawh",
+    "speakQuestion": "Ṭawngin Zawt Rawh",
+    "uploadDocument": "File Upload Rawh",
+    "checkSection3p": "Section 3(p) En Rawh",
+    "ipCalculator": "IP Chhinchhiahna",
+    "trpPaper": "TRP Lehkha",
+    "prpPaper": "PRP Lehkha",
+    "speakInMyLanguage": "Ka Ṭawngin Ṭawng Rawh",
+    "checkMyIdea": "Ka Idea En Rawh",
+    "findAuthority": "Thuneitu Zang Rawh",
+    "officialResources": "Sawrkar Portal",
+    "researchEvidence": "Zirchianna Chhenfak",
+    "ipVault": "IP Bawm",
+    "type": "Chhu Rawh",
+    "speak": "Ṭawng Rawh",
+    "explainSimply": "Awlsam Takan Hrilh Rawh",
+    "saveToVault": "Bawmah Khawl Rawh",
+    "openOfficialSource": "Sawrkar Hmun Hawng Rawh",
+    "verifyOriginalSource": "A Tak Sem Rawh",
+    "browseFiles": "File Zang Rawh",
+    "clearChat": "Chat Thian Rawh",
+    "exportChat": "Thawn Chhuak Rawh",
+    "listen": "Ngaihthlak Rawh",
+    "translateAnswer": "Lettling Rawh",
+    "moreDetails": "Kimchang Zawk"
+  },
+  "localBridge": {
+    "title": "Tualchhung Inhriatna Zampuia (Local Knowledge Bridge)",
+    "subtitle": "I tualchhung hnam hriatna i ṭawng ngeiin sawi la, a chhenfakna en rawh.",
+    "placeholder": "I tualchhung damdawi entirnan 'Ka pi hian heng ramhmul hi a hmang thin...' tiin hrilh rawh...",
+    "verificationStatus": "Fiahna Mamo (Requires Verification)",
+    "requiresVerificationNotice": "ATREYA hian a takin neitu nihna a nemnghet ngawt lo. Sawrkar thuneitu fiahna a mamoh.",
+    "labels": {
+      "resource": "Rammut / Thinglehruang",
+      "practice": "Hnam Thinchang",
+      "localDesc": "Tualchhung Ṭawnga Hrilhfiahna",
+      "region": "Ram / Khawtlang",
+      "preparation": "Siam Dan",
+      "history": "Chanchin hlui",
+      "evidence": "Fiahna Hmuh",
+      "research": "Zirchianna Zomabawk",
+      "ipRelevance": "IP Thil Thleng Thei",
+      "regulatory": "Dan Pawi Khoh Thei",
+      "status": "Fiahna Dinhmun",
+      "nextStep": "Kal Zel Dan Tur"
+    }
+  },
+  "solver": {
+    "title": "Engnge tih i tum?",
+    "subtitle": "Sawrkar kawng kawhhmuhna hmu turin i tum thlang rawh.",
+    "options": {
+      "tk": "🌿 Hnam hriatna ka nei",
+      "idea": "💡 Ayurveda ngaihtuahna thar ka nei",
+      "paper": "📄 Zirchianna lehkha ka nei",
+      "formulation": "🧪 Ayurveda damdawi siam dan ka nei",
+      "brand": "🏷️ Brand venhim ka duh",
+      "food": "📦 Ayurveda/Chaw lam thil hralh ka duh",
+      "localProduct": "🌾 Tualchhung thil tharchhuah ka nei",
+      "evidence": "📚 Zirchianna fiahna ka mamawh",
+      "rule": "⚖️ IP dan hriatthiam ka mamawh",
+      "authority": "🏛️ Sawrkar thuneitu dik zawn ka mamawh",
+      "search": "🔎 Sawrkar hriattirna zawn ka duh"
+    }
+  },
+  "checkIdea": {
+    "title": "Ngaihtuahna Zirchianna Thiam",
+    "subtitle": "I ngaihtuahna luh tir la zirchianna hmu rawh.",
+    "placeholder": "I ngaihtuahna sawifiah rawh...",
+    "labels": {
+      "summary": "1. Ngaihtuahna thil tumpui",
+      "tk": "2. Hnam hriatna zawm",
+      "ipCategories": "3. IP pawm theih te",
+      "researchAreas": "4. Zirchianna hmun te",
+      "authority": "5. Sawrkar thuneitu dik",
+      "verifyQuestions": "6. Fiah ngai so te",
+      "sources": "7. Sawrkar hmun en tur te",
+      "nextStep": "8. Kal zel dan tur"
+    }
+  },
+  "authorities": {
+    "title": "Thuneitu Dik Zawnna",
+    "subtitle": "ATREYA hian sawrkar portal dik takah a hruai ang che.",
+    "notice": "ATREYA hi zirchianna puitu a ni a, sawrkar thuneitu a ni lo."
+  },
+  "directory": {
+    "title": "Sawrkar & Zirchianna Hmun te",
+    "subtitle": "Sawrkar portal te senchhuahna.",
+    "whyThisSource": "Engvangin nge hei hi?"
+  },
+  "research": {
+    "title": "Zirchianna Chhenfakna",
+    "subtitle": "Zirchianna lehkha leh dan te."
+  },
+  "vault": {
+    "title": "Ka IP Bawm",
+    "subtitle": "Thu khawl hrang hrang te.",
+    "empty": "I IP Bawm a ruak rih e."
+  },
+  "answerFormat": {
+    "answer": "CHHANNA",
+    "simpleExplanation": "AWLSAM TAKIN",
+    "realExample": "ENTIRNA TAK TAK",
+    "evidence": "CHHENFAKNA",
+    "officialSource": "SAWRKAR HMUN",
+    "relevantLaw": "DAN THANG",
+    "sourceDate": "NI LEH THLA",
+    "verifySource": "A TAK EN RAWH",
+    "whyThisSource": "ENGVANGIN NGE HEI HI?"
+  }
+}

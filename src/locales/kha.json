@@ -1,0 +1,151 @@
+{
+  "app": {
+    "name": "ATREYA",
+    "tagline": "AI Yar-Spah bad ka Tip-Tynrai (Ayurveda, Traditional Knowledge & Intellectual Property)",
+    "headerSub": "AI Kynja-Bbun-Ktien • Ayurveda • Tip-Tynrai • IP",
+    "sihBadge": "SIH 2026 • PS 26045",
+    "disclaimer": "ATREYA ka ai jingtip bad ka jingyarap wad-din. Kim long ka ain sorkar ne ka dawai doktor."
+  },
+  "nav": {
+    "home": "Iing (Home)",
+    "chat": "AI Chat",
+    "tk": "Tip-Tynrai",
+    "vault": "IP Vault",
+    "research": "Jingwad-din",
+    "authorities": "Wad Authority",
+    "directory": "Sorkar Portal",
+    "solver": "Wad Jingpynkhiah",
+    "trp": "TRP Kot",
+    "prp": "PRP Kot",
+    "simpleMode": "Simple Mode"
+  },
+  "hero": {
+    "badge": "SIH 2026 Jingeh 26045",
+    "title": "ATREYA",
+    "tagline": "AI Yar-Spah bad ka Tip-Tynrai (Ayurveda, Traditional Knowledge & Intellectual Property)",
+    "subtitle": "Jingpynhira ba shisha ha Section 3(p), TKDL bad Indian Patents Act 1970."
+  },
+  "dashboard": {
+    "title": "KIEI BA PHI KWAH JINGYARAP?",
+    "subtitle": "Jied iaka card ban wad jingtip shisha bad ki portal sorkar.",
+    "tkCard": "Tip-Tynrai",
+    "ideaCard": "Ka Jingmut Jong Nga",
+    "researchCard": "Jingwad-din",
+    "docCard": "Kot Scan OCR",
+    "ruleCard": "IP Rule",
+    "authorityCard": "Wad Authority",
+    "sourceCard": "Sorkar Portal",
+    "speakCard": "Kren ha Ktien Jong Nga",
+    "vaultCard": "Ka IP Vault Jong Nga"
+  },
+  "buttons": {
+    "askQuestion": "Kylli Jingkylli",
+    "speakQuestion": "Kren Ban Kylli",
+    "uploadDocument": "Upload Kot",
+    "checkSection3p": "Check Section 3(p)",
+    "ipCalculator": "IP Calculator",
+    "trpPaper": "TRP Kot",
+    "prpPaper": "PRP Kot",
+    "speakInMyLanguage": "Kren ha Ktien Jong Nga",
+    "checkMyIdea": "Check ia Jingmut Jong Nga",
+    "findAuthority": "Wad Authority",
+    "officialResources": "Sorkar Portal",
+    "researchEvidence": "Jingpynshisha Wad-din",
+    "ipVault": "IP Vault",
+    "type": "Thoh",
+    "speak": "Kren",
+    "explainSimply": "Bata Suk Suk",
+    "saveToVault": "Pynsah ha Vault",
+    "openOfficialSource": "Plie Sorkar Portal",
+    "verifyOriginalSource": "Pynshisha Tynrai",
+    "browseFiles": "Wad File",
+    "clearChat": "Pynduh Chat",
+    "exportChat": "Phah Noh",
+    "listen": "Sngap",
+    "translateAnswer": "Kylla Ktien",
+    "moreDetails": "Kham Bniah"
+  },
+  "localBridge": {
+    "title": "Kynroh Tip-Tynrai Shnong (Local Knowledge Bridge)",
+    "subtitle": "Batai ia ka tip-tynrai tynrai jong phi ha la ka ktien bad peit iaka jingpynshisha.",
+    "placeholder": "Batai ia ka dawai tynrai tynrai jong phi...",
+    "verificationStatus": "Donkam Pynshisha (Requires Verification)",
+    "requiresVerificationNotice": "ATREYA kam pat aibor kyrteng hok. Donkam jingpynshisha sorkar.",
+    "labels": {
+      "resource": "Tynrai / Dieng Kynbat",
+      "practice": "Rukom Sumar Tynrai",
+      "localDesc": "Jingbatai ha Ktien Shnong",
+      "region": "Shnong / Imlang Sahlang",
+      "preparation": "Rukom Shet Dawai",
+      "history": "Parom Hyndai",
+      "evidence": "Jingpynshisha ba Shem",
+      "research": "Jingwad-din ba Iadei",
+      "ipRelevance": "Donkam IP",
+      "regulatory": "Donkam Ain Sorkar",
+      "status": "Jinglong Pynshisha",
+      "nextStep": "Jam ba Bud"
+    }
+  },
+  "solver": {
+    "title": "Kiei ba phi thmu ban leh?",
+    "subtitle": "Jied iaka jingthmu ban hikai rukom buh ka ain sorkar.",
+    "options": {
+      "tk": "🌿 Nga don tip-tynrai tynrai",
+      "idea": "💡 Nga don jingmut thymmai ha Ayurveda",
+      "paper": "📄 Nga don kot wad-din",
+      "formulation": "🧪 Nga don rukom shet dawai Ayurveda",
+      "brand": "🏷️ Nga kwah ban tyngkai ia ka Brand",
+      "food": "📦 Nga kwah ban die mar Ayurveda/Bam",
+      "localProduct": "🌾 Nga don mar tynrai shnong",
+      "evidence": "📚 Nga donkam jingpynshisha wad-din",
+      "rule": "⚖️ Nga donkam sngewthuh ain IP",
+      "authority": "🏛️ Nga donkam wad office sorkar ba dei",
+      "search": "🔎 Nga kwah wad jingtip sorkar"
+    }
+  },
+  "checkIdea": {
+    "title": "Jingbatai Jingmut Bniah",
+    "subtitle": "Pynrung iaka jingmut jong phi ban wad jingbatai.",
+    "placeholder": "Thoh ia ka jingmut...",
+    "labels": {
+      "summary": "1. Jingmut ba Kongsan",
+      "tk": "2. Tip-tynrai ba Iadei",
+      "ipCategories": "3. Jinglong IP",
+      "researchAreas": "4. Wad-din ba Iadei",
+      "authority": "5. Office Sorkar ba Dei",
+      "verifyQuestions": "6. Jingkylli ban Pynshisha",
+      "sources": "7. Portal Sorkar ban Peit",
+      "nextStep": "8. Jam ba Bud"
+    }
+  },
+  "authorities": {
+    "title": "Wad Office Sorkar ba Dei",
+    "subtitle": "ATREYA ka ialam shaka portal sorkar ba shisha.",
+    "notice": "ATREYA ka long AI wad-din, kam long hi ka office sorkar."
+  },
+  "directory": {
+    "title": "Portal Sorkar bad Jingwad-din",
+    "subtitle": "Ka kyrteng jong ki portal sorkar.",
+    "whyThisSource": "Balei kane ka portal?"
+  },
+  "research": {
+    "title": "Jingwad-din Pynshisha",
+    "subtitle": "Kot wad-din bad ain sorkar."
+  },
+  "vault": {
+    "title": "Ka IP Vault Jong Nga",
+    "subtitle": "Jingtip ba pynsah.",
+    "empty": "Ka IP Vault jong phi ka thylli."
+  },
+  "answerFormat": {
+    "answer": "JINGPHYNHIR",
+    "simpleExplanation": "BATA SUK",
+    "realExample": "NUKSA SHISHA",
+    "evidence": "JINGPYNSHISHA",
+    "officialSource": "PORTAL SORKAR",
+    "relevantLaw": "AIN BA IADEI",
+    "sourceDate": "TARIK",
+    "verifySource": "PEIT PORTAL SHISHA",
+    "whyThisSource": "BALEI KANE KA PORTAL?"
+  }
+}

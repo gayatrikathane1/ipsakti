@@ -1,0 +1,151 @@
+{
+  "app": {
+    "name": "ATREYA",
+    "tagline": "ᱟᱭᱩᱨᱵᱮᱫᱽ, ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ ᱟᱨ ᱟᱭ-ᱯᱤ ᱞᱟᱹᱜᱤᱫ ᱮᱟᱭ ᱜᱚᱲᱚᱭᱤᱡ",
+    "headerSub": "ᱮᱟᱭ • ᱟᱭᱩᱨᱵᱮᱫᱽ • ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ • ᱟᱭ-ᱯᱤ",
+    "sihBadge": "SIH 2026 • PS 26045",
+    "disclaimer": "ᱟᱛᱨᱮᱭᱟ ᱫᱚ ᱵᱟᱰᱟᱭ ᱟᱨ ᱥᱟᱸ host ᱜᱚᱲᱚᱭ ᱮᱢᱚᱜ-ᱟ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱟᱹᱱᱟᱹᱨᱤ ᱵᱟᱝ ᱰᱟᱠᱛᱚᱨᱤ ᱩᱯᱫᱮᱥ ᱫᱚ ᱵᱟᱝ ᱠᱟᱱᱟ᱾"
+  },
+  "nav": {
+    "home": "ᱚᱲᱟᱜ (Home)",
+    "chat": "ᱮᱟᱭ ᱪᱟᱴ",
+    "tk": "ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ",
+    "vault": "ᱟᱭ-ᱯᱤ ᱵᱟᱠᱥᱟ",
+    "research": "ᱥᱟᱸ host रिसर्च",
+    "authorities": "ᱚᱯᱷᱤᱥ ᱯᱟᱱᱛᱮ",
+    "directory": "ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱯᱚᱨᱴᱟᱞ",
+    "solver": "ᱮᱴᱠᱮᱴᱚᱬᱮ ᱥᱚᱞᱦᱮ",
+    "trp": "ᱴᱤ-ᱟᱨ-ᱯᱤ ᱥᱟᱠᱟᱢ",
+    "prp": "ᱯᱤ-ᱟᱨ-ᱯᱤ ᱥᱟᱠᱟᱢ",
+    "simpleMode": "ᱟᱞᱜᱟ ᱢᱚᱰ"
+  },
+  "hero": {
+    "badge": "SIH 2026 ᱮᱴᱠᱮᱴᱚᱬᱮ 26045",
+    "title": "ATREYA",
+    "tagline": "ᱟᱭᱩᱨᱵᱮᱫᱽ, ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ ᱟᱨ ᱟᱭ-ᱯᱤ ᱞᱟᱹᱜᱤᱫ ᱮᱟᱭ ᱜᱚᱲᱚᱭᱤᱡ",
+    "subtitle": "ᱫᱷᱟᱨᱟ 3(p), ᱴᱤ-ᱠᱮ-ᱰᱤ-ᱮᱞ ᱟᱨ ᱥᱤᱧᱚᱛ ᱯᱮᱴᱮᱱᱴ ᱟᱹᱱ 1970 ᱪᱮᱛᱟᱱ ᱥᱟᱹᱨᱤ ᱩᱫᱩᱜ᱾"
+  },
+  "dashboard": {
+    "title": "ᱟᱢᱟᱜ ᱪᱮᱫ ᱜᱚᱲᱚ ᱞᱟᱹᱠᱛᱤ standard?",
+    "subtitle": "ᱩᱫᱩᱜ standard ᱟᱨ ᱚᱯᱷᱤᱥ ᱯᱚᱨᱴᱟᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱟᱨᱰ ᱪᱤ direct ᱢᱮ᱾",
+    "tkCard": "ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ",
+    "ideaCard": "ᱤᱧᱟᱜ ᱦᱩᱫᱤᱥ",
+    "researchCard": "ᱥᱟᱸ host रिसर्च",
+    "docCard": "ᱫᱚᱞᱤᱞ OCR",
+    "ruleCard": "ᱟᱭ-ᱯᱤ ᱟᱹᱱ",
+    "authorityCard": "ᱚᱯᱷᱤᱥ ᱯᱟᱱᱛᱮ",
+    "sourceCard": "ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱯᱚᱨᱴᱟᱞ",
+    "speakCard": "ᱤᱧᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱨᱚᱲ ᱢᱮ",
+    "vaultCard": "ᱤᱧᱟᱜ ᱟᱭ-ᱯᱤ ᱵᱟᱠᱥᱟ"
+  },
+  "buttons": {
+    "askQuestion": "ᱠᱩᱠᱞᱤ ᱠᱩᱞᱤ ᱢᱮ",
+    "speakQuestion": "ᱨᱚᱲ ᱠᱟᱛᱮ ᱠᱩᱞᱤ ᱢᱮ",
+    "uploadDocument": "ᱫᱚᱞᱤᱞ ᱟᱯᱞᱚᱰ ᱢᱮ",
+    "checkSection3p": "ᱫᱷᱟᱨᱟ 3(p) ᱧᱮᱞ ᱢᱮ",
+    "ipCalculator": "ᱟᱭ-ᱯᱤ ᱞᱮᱠᱷᱟᱭᱤᱡ",
+    "trpPaper": "ᱴᱤ-ᱟᱨ-ᱯᱤ ᱥᱟᱠᱟᱢ",
+    "prpPaper": "ᱯᱤ-ᱟᱨ-ᱯᱤ ᱥᱟᱠᱟᱢ",
+    "speakInMyLanguage": "ᱤᱧᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱨᱚᱲ ᱢᱮ",
+    "checkMyIdea": "ᱤᱧᱟᱜ ᱦᱩᱫᱤᱥ ᱧᱮᱞ ᱢᱮ",
+    "findAuthority": "ᱚᱯᱷᱤᱥ ᱯᱟᱱᱛᱮ",
+    "officialResources": "ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱯᱚᱨᱴᱟᱞ",
+    "researchEvidence": "ᱥᱟᱹ reach ᱯᱩᱨᱟᱹᱣ ᱥᱟᱹᱠᱷᱤ",
+    "ipVault": "ᱟᱭ-ᱯᱤ ᱵᱟᱠᱥᱟ",
+    "type": "ᱚᱞ ᱢᱮ",
+    "speak": "ᱨᱚᱲ ᱢᱮ",
+    "explainSimply": "ᱟᱞᱜᱟ ᱛᱮ ᱵᱩᱡᱷᱟᱹᱣ ᱢᱮ",
+    "saveToVault": "ᱵᱟᱠᱥᱟ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ",
+    "openOfficialSource": "ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱡᱷᱤᱡ ᱢᱮ",
+    "verifyOriginalSource": "ᱟᱥᱞᱤ ᱧᱮᱞ ᱯᱩᱨᱟᱹᱣ ᱢᱮ",
+    "browseFiles": "ᱯᱷᱟᱭᱤᱞ ᱯᱟᱱᱛᱮ",
+    "clearChat": "ᱪᱟᱴ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ",
+    "exportChat": "ᱵᱷᱮᱡᱟᱭ ᱢᱮ",
+    "listen": "ᱟᱸᱡᱚᱢ ᱢᱮ",
+    "translateAnswer": "ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ",
+    "moreDetails": "ᱵᱟᱹᱲᱛᱤ ᱵᱤᱵᱚᱨᱚᱱ"
+  },
+  "localBridge": {
+    "title": "ᱟᱛᱳ ᱜᱮᱭᱟᱱ ᱥᱟᱠᱟᱢ (Local Knowledge Bridge)",
+    "subtitle": "ᱟᱯᱱᱟᱨ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ ᱞᱟᱹᱭ ᱢᱮ ᱟᱨ ᱥᱟᱹᱠᱷᱤ ᱧᱮᱞ ᱢᱮ᱾",
+    "placeholder": "ᱟᱯᱱᱟᱨᱟᱜ ᱦᱟᱯᱲᱟᱢ ᱨᱟᱱ ᱵᱟᱵᱚᱛ ᱞᱟᱹᱭ ᱢᱮ...",
+    "verificationStatus": "ᱧᱮᱞ ᱯᱩᱨᱟᱹᱣ ᱞᱟᱹᱠᱛᱤ (Requires Verification)",
+    "requiresVerificationNotice": "ᱟᱛᱨᱮᱭᱟ ᱫᱚ ᱟᱡ ᱛᱮ ᱟᱹᱱᱟᱹᱨᱤ ᱢᱟᱞᱤᱠᱟᱱᱟ ᱫᱚ ᱵᱟᱭ ᱮᱢᱚᱜ-ᱟ᱾ ᱥᱚᱨᱠᱟᱨᱤ ᱯᱩᱨᱟᱹᱣ ᱞᱟᱹᱠᱛᱤ standard.",
+    "labels": {
+      "resource": "ᱡᱤᱱᱤᱥ / ᱫᱟᱨᱮ",
+      "practice": "ᱦᱟᱯᱲᱟᱢ ᱫᱟᱹᱲ",
+      "localDesc": "ᱟᱛᱳ ᱯᱟᱹᱨᱥᱤ ᱵᱤᱵᱚᱨᱚᱱ",
+      "region": "ᱴᱚᱴᱷᱟ / ᱥᱟ components",
+      "preparation": "ᱵᱮᱱᱟᱣ ᱦᱚᱨ",
+      "history": "ᱱᱟᱜᱟᱢ",
+      "evidence": "ᱧᱟᱢ ᱟᱠᱟᱱ ᱥᱟᱹᱠᱷᱤ",
+      "research": "ᱥᱟᱸ hot रिसर्च",
+      "ipRelevance": "ᱟᱭ-ᱯᱤ ᱞᱟᱹᱠᱛᱤ",
+      "regulatory": "ᱟᱹᱱᱟᱹᱨᱤ ᱞᱟᱹᱠᱛᱤ",
+      "status": "ᱧᱮᱞ ᱯᱩᱨᱟᱹᱣ ᱦᱟᱞᱚᱛ",
+      "nextStep": "ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱛᱟ platform"
+    }
+  },
+  "solver": {
+    "title": "ᱟᱢ ᱪᱮᱫ ᱪᱤ direct ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ?",
+    "subtitle": "ᱥᱚᱨᱠᱟᱨᱤ ᱩᱫᱩᱜ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱤ direct ᱢᱮ᱾",
+    "options": {
+      "tk": "🌿 ᱤᱧ ᱴᱷᱮᱱ ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ ᱢᱮᱱᱟᱜ-ᱟ",
+      "idea": "💡 ᱤᱧ ᱴᱷᱮᱱ ᱱᱟᱣᱟ ᱟᱭᱩᱨᱵᱮᱫᱽ ᱦᱩᱫᱤᱥ ᱢᱮᱱᱟᱜ-ᱟ",
+      "paper": "📄 ᱤᱧ ᱴᱷᱮᱱ रिसर्च ᱥᱟᱠᱟᱢ ᱢᱮᱱᱟᱜ-ᱟ",
+      "formulation": "🧪 ᱤᱧ ᱴᱷᱮᱱ ᱨᱟᱱ ᱵᱮᱱᱟᱣ ᱢᱮᱱᱟᱜ-ᱟ",
+      "brand": "🏷️ ᱤᱧ ᱵᱨᱟᱱᱰ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱱᱟᱭᱤᱧ ᱠᱟᱱᱟ",
+      "food": "📦 ᱤᱧ ᱟᱭᱩᱨᱵᱮᱫᱽ ᱡᱤᱱᱤᱥ ᱟᱹᱠᱷᱨᱤᱧ ᱥᱟᱱᱟᱭᱤᱧ ᱠᱟᱱᱟ",
+      "localProduct": "🌾 ᱤᱧ ᱴᱷᱮᱱ ᱟᱛᱳ ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜ-ᱟ",
+      "evidence": "📚 ᱤᱧ ᱥᱟᱹᱠᱷᱤ ᱞᱟᱹᱠᱛᱤ standard",
+      "rule": "⚖️ ᱤᱧ ᱟᱭ-ᱯᱤ ᱟᱹᱱ ᱵᱩᱡᱷᱟᱹᱣ ᱞᱟᱹᱠᱛᱤ standard",
+      "authority": "🏛️ ᱤᱧ ᱥᱚᱨᱠᱟᱨᱤ ᱚᱯᱷᱤᱥ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱠᱛᱤ standard",
+      "search": "🔎 ᱤᱧ ᱥᱚᱨᱠᱟᱨᱤ ᱵᱟᱰᱟᱭ ᱯᱟᱱᱛᱮ ᱥᱟᱱᱟᱭᱤᱧ ᱠᱟᱱᱟ"
+    }
+  },
+  "checkIdea": {
+    "title": "ᱦᱩᱫᱤᱥ ᱧᱮᱞ ᱯᱩᱨᱟᱹᱣ",
+    "subtitle": "ᱟᱢᱟᱜ ᱦᱩᱫᱤᱥ ᱵᱤᱪᱟᱹᱨ ᱢᱮ᱾",
+    "placeholder": "ᱦᱩᱫᱤᱥ ᱚᱞ ᱢᱮ...",
+    "labels": {
+      "summary": "1. ᱦᱩᱫᱤᱥ ᱨᱮᱱᱟᱜ ᱢᱩᱬ ᱠᱟᱛᱷᱟ",
+      "tk": "2. ᱦᱟᱯᱲᱟᱢ ᱜᱮᱭᱟᱱ",
+      "ipCategories": "3. ᱟᱭ-ᱯᱤ ᱛᱷᱚᱠ",
+      "researchAreas": "4. ᱥᱟᱸ host रिसर्च ᱴᱚᱴᱷᱟ",
+      "authority": "5. ᱥᱚᱨᱠᱟᱨᱤ ᱚᱯᱷᱤᱥ",
+      "verifyQuestions": "6. ᱧᱮᱞ ᱠᱩᱠᱞᱤ",
+      "sources": "7. ᱥᱚᱨᱠᱟᱨᱤ ᱡᱷᱤᱡ",
+      "nextStep": "8. ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱛᱟ platform"
+    }
+  },
+  "authorities": {
+    "title": "ᱚᱯᱷᱤᱥ ᱯᱟᱱᱛᱮ ᱢᱮ",
+    "subtitle": "ᱟᱛᱨᱮᱭᱟ ᱫᱚ ᱥᱚᱨᱠᱟᱨᱤ ᱯᱚᱨᱴᱟᱞ ᱛᱮᱭ ᱤᱫᱤ ᱢᱮᱭᱟ᱾",
+    "notice": "ᱟᱛᱨᱮᱭᱟ ᱫᱚ ᱜᱚᱲᱚᱭᱤᱡ ᱠᱟᱱᱟᱭ, ᱟᱡ ᱛᱮ ᱥᱚᱨᱠᱟᱨ ᱫᱚ ᱵᱟᱝ ᱠᱟᱱᱟᱭ᱾"
+  },
+  "directory": {
+    "title": "ᱥᱚᱨᱠᱟᱨᱤ ᱟᱨ ᱥᱟᱸ hot ᱥᱟ cross ᱥᱤᱧ",
+    "subtitle": "ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱯᱚᱨᱴᱟᱞ ᱞᱤᱥᱴ᱾",
+    "whyThisSource": "ᱱᱚᱣᱟ ᱪᱮᱫ ᱞᱟᱹᱜᱤᱫ?"
+  },
+  "research": {
+    "title": "ᱥᱟᱹᱠᱷᱤ ᱞᱤᱥᱴ",
+    "subtitle": "रिसर्च ᱥᱟᱠᱟᱢ ᱟᱨ ᱟᱹᱱ᱾"
+  },
+  "vault": {
+    "title": "ᱤᱧᱟᱜ ᱟᱭ-ᱯᱤ ᱵᱟᱠᱥᱟ",
+    "subtitle": "ᱫᱚᱦᱚ ᱟᱠᱟᱱ ᱵᱟᱰᱟᱭ᱾",
+    "empty": "ᱟᱢᱟᱜ ᱵᱟᱠᱥᱟ ᱫᱚ ᱯᱷᱟᱸᱠᱟ ᱜᱮᱭᱟ᱾"
+  },
+  "answerFormat": {
+    "answer": "ᱛᱮᱞᱟ",
+    "simpleExplanation": "ᱟᱞᱜᱟ ᱵᱩᱡᱷᱟᱹᱣ",
+    "realExample": "ᱠᱟᱹᱢᱤ ᱩᱫᱩᱜ",
+    "evidence": "ᱥᱟᱹᱠᱷᱤ",
+    "officialSource": "ᱥᱚᱨᱠᱟᱨᱤ ᱡᱷᱤᱡ",
+    "relevantLaw": "ᱟᱹᱱ",
+    "sourceDate": "ᱢᱟ cross, ᱢᱟᱦᱟ",
+    "verifySource": "ᱟᱥᱞᱤ ᱧᱮᱞ ᱯᱩᱨᱟᱹᱣ ᱢᱮ",
+    "whyThisSource": "ᱱᱚᱣᱟ ᱪᱮᱫ ᱞᱟᱹᱜᱤᱫ?"
+  }
+}

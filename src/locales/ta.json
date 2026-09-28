@@ -1,0 +1,151 @@
+{
+  "app": {
+    "name": "ஆத்ரேயா (ATREYA)",
+    "tagline": "Multilingual AI Assistant for Ayurveda, Traditional Knowledge & Intellectual Property",
+    "headerSub": "Multilingual AI • Ayurveda • Traditional Knowledge • IP",
+    "sihBadge": "SIH 2026 • PS 26045",
+    "disclaimer": "ATREYA provides information and research assistance. It is not a substitute for professional legal, regulatory or medical advice. Always verify important information against the latest official source."
+  },
+  "nav": {
+    "home": "முகப்பு",
+    "chat": "AI அரட்டை",
+    "tk": "பாரம்பரிய அறிவு",
+    "vault": "IP Vault",
+    "research": "Research",
+    "authorities": "Find Authority",
+    "directory": "Official Portals",
+    "solver": "Problem Solver",
+    "trp": "TRP Paper",
+    "prp": "PRP Paper",
+    "simpleMode": "Simple Mode"
+  },
+  "hero": {
+    "badge": "SIH 2026 Problem Statement 26045",
+    "title": "ATREYA",
+    "tagline": "Multilingual AI Assistant for Ayurveda, Traditional Knowledge & Intellectual Property",
+    "subtitle": "Empowering Indian innovators, Ayurvedic practitioners, and research scholars with verified statutory guidance on Section 3(p), CSIR-TKDL prior art defense, and Indian Patents Act 1970."
+  },
+  "dashboard": {
+    "title": "WHAT DO YOU NEED HELP WITH?",
+    "subtitle": "Select a card to explore verified statutory guidance, research evidence, or official authority portals.",
+    "tkCard": "Traditional Knowledge",
+    "ideaCard": "My Idea",
+    "researchCard": "Research",
+    "docCard": "Document OCR",
+    "ruleCard": "IP Rule",
+    "authorityCard": "Find Authority",
+    "sourceCard": "Official Portals",
+    "speakCard": "Speak in My Language",
+    "vaultCard": "My IP Vault"
+  },
+  "buttons": {
+    "askQuestion": "கேள்வி கேட்கவும்",
+    "speakQuestion": "Speak a Question",
+    "uploadDocument": "Upload Document",
+    "checkSection3p": "Check Section 3(p)",
+    "ipCalculator": "IP Calculator",
+    "trpPaper": "TRP Paper",
+    "prpPaper": "PRP Paper",
+    "speakInMyLanguage": "Speak in My Language",
+    "checkMyIdea": "Check My Idea",
+    "findAuthority": "Find Authority",
+    "officialResources": "Official Portals",
+    "researchEvidence": "Research Evidence",
+    "ipVault": "IP Vault",
+    "type": "Type",
+    "speak": "Speak",
+    "explainSimply": "Explain Simply",
+    "saveToVault": "Save to IP Vault",
+    "openOfficialSource": "Open Official Source",
+    "verifyOriginalSource": "Verify Original Source",
+    "browseFiles": "Browse Files",
+    "clearChat": "Clear Chat",
+    "exportChat": "Export",
+    "listen": "Listen",
+    "translateAnswer": "Translate Answer",
+    "moreDetails": "More Details"
+  },
+  "localBridge": {
+    "title": "LOCAL KNOWLEDGE BRIDGE",
+    "subtitle": "Describe traditional knowledge in your own language and explore relevant evidence, research and possible IP considerations.",
+    "placeholder": "Enter or describe your local traditional remedy (e.g., 'My grandmother uses this plant for healing...', 'This preparation has been used in my village for generations')...",
+    "verificationStatus": "Requires Verification",
+    "requiresVerificationNotice": "ATREYA does not determine legal ownership or patentability. Formal prior art evidence and National Biodiversity Authority clearance are required.",
+    "labels": {
+      "resource": "Resource / Plant",
+      "practice": "Traditional Practice",
+      "localDesc": "Local Language Description",
+      "region": "Region / Community",
+      "preparation": "Preparation / Process",
+      "history": "Historical Context",
+      "evidence": "Evidence Found",
+      "research": "Related Research",
+      "ipRelevance": "Possible IP Relevance",
+      "regulatory": "Possible Regulatory Relevance",
+      "status": "Verification Status",
+      "nextStep": "Recommended Next Step"
+    }
+  },
+  "solver": {
+    "title": "What are you trying to do?",
+    "subtitle": "Select your scenario to receive step-by-step statutory and official authority guidance.",
+    "options": {
+      "tk": "🌿 I have traditional knowledge",
+      "idea": "💡 I have a new Ayurveda idea",
+      "paper": "📄 I have a research paper",
+      "formulation": "🧪 I have an Ayurveda formulation",
+      "brand": "🏷️ I want to protect a brand",
+      "food": "📦 I want to sell an Ayurveda/food product",
+      "localProduct": "🌾 I have a local traditional product",
+      "evidence": "📚 I need research evidence",
+      "rule": "⚖️ I need to understand an IP rule",
+      "authority": "🏛️ I need to find the correct authority",
+      "search": "🔎 I want to search official information"
+    }
+  },
+  "checkIdea": {
+    "title": "Smart Check My Idea",
+    "subtitle": "Enter your Ayurvedic or technical idea for a multi-point preliminary statutory analysis.",
+    "placeholder": "Describe your idea (e.g. 'A novel ethanolic extraction process for Ashwagandha root to improve bioavailability')...",
+    "labels": {
+      "summary": "1. What the idea appears to be about",
+      "tk": "2. Related traditional knowledge",
+      "ipCategories": "3. Possible IP categories to investigate",
+      "researchAreas": "4. Relevant research areas",
+      "authority": "5. Relevant official authority",
+      "verifyQuestions": "6. Questions you should verify",
+      "sources": "7. Official sources to check",
+      "nextStep": "8. Suggested next step"
+    }
+  },
+  "authorities": {
+    "title": "FIND RELEVANT AUTHORITY",
+    "subtitle": "ATREYA directs you to official Indian and international government portals.",
+    "notice": "ATREYA is an AI research assistant, not the government authority."
+  },
+  "directory": {
+    "title": "OFFICIAL GOVERNMENT & RESEARCH RESOURCES",
+    "subtitle": "Curated catalog of official statutory registries and research databases.",
+    "whyThisSource": "Why this source?"
+  },
+  "research": {
+    "title": "RESEARCH EVIDENCE CATALOG",
+    "subtitle": "Peer-reviewed research, gazettes, and statutory reference papers."
+  },
+  "vault": {
+    "title": "MY IP VAULT",
+    "subtitle": "Saved questions, research evidence, official sources, and traditional knowledge records.",
+    "empty": "Your IP Vault is currently empty. Click 'Save to IP Vault' on any answer or card."
+  },
+  "answerFormat": {
+    "answer": "ANSWER",
+    "simpleExplanation": "SIMPLE EXPLANATION",
+    "realExample": "REAL-LIFE EXAMPLE",
+    "evidence": "EVIDENCE",
+    "officialSource": "OFFICIAL SOURCE",
+    "relevantLaw": "RELEVANT LAW / SECTION",
+    "sourceDate": "SOURCE DATE",
+    "verifySource": "VERIFY ORIGINAL SOURCE",
+    "whyThisSource": "WHY THIS SOURCE?"
+  }
+}
